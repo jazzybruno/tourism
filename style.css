@@ -1,0 +1,46 @@
+body { background-color:aliceblue;
+       background-image: url("go.jpg");
+    
+
+}
+h1{margin-left:40px;
+    color:greenyellow;
+
+
+}
+#para1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size:medium;
+    color:rgb(48, 46, 46);
+    margin-left: 30px;
+}
+#para2{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
+    color: black;
+    margin: left 30px;
+}
+nav{
+    margin-left: 10px;
+    display: block;
+}
+ footer{
+    margin-top: 20px;
+    background-color:black;
+    
+margin-bottom: 0px;
+margin-left: 0px;
+margin-right: 0px;
+} 
+#para4{
+    color: white;
+    position: relative;
+    text-align:right;
+}
+#para5{
+    color: white;
+    text-align:justify;
+}
+address{
+    font-size: medium;
+}
