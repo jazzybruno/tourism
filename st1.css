@@ -10,7 +10,7 @@
     
 } */
 body{
-    background-color:rgb(86, 146, 199);
+    background-color:rgb(207, 223, 238);
 
 }
 h1{
@@ -24,7 +24,8 @@ h1{
     height: 100px;
     font-size: 30px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    margin-top: 50px;
+    margin-top: 60px;
+    border-radius: 20px;
 }
 
 #but2{
@@ -35,7 +36,7 @@ h1{
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     margin-left: 800px;
     margin-top: -80px;
-    
+    border-radius: 20px; 
 }
 
 #but3{
@@ -44,7 +45,7 @@ h1{
     height: 100px;
     font-size: 30px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    
+    border-radius: 20px;
 }
 #but4{
     background-color: greenyellow;
@@ -54,4 +55,5 @@ h1{
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     margin-left: 800px;
     margin-top: -80px;
+    border-radius: 20px;
 }

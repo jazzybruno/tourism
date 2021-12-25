@@ -1,18 +1,21 @@
 
 h1{
     color:rgb(15, 9, 9);
-    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     padding: 100px 100px 100px 100px;
     word-spacing: 10px;
     text-align: center;
+    background-color: rgb(138, 190, 236);
+    box-sizing: border-box;
+    border-radius: 50px;
 }
 h2{
     color: aquamarine;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
     padding-left: 50px;
 }
 body{
-    background-color:rgb(86, 146, 199);
+    background-color:rgb(207, 223, 238);
 
 }
 img{
@@ -30,11 +33,13 @@ a{
 }
 button{
 
-    background-color: greenyellow;
+    /*background-color: greenyellow;*/
     width: 500px;
     height: 100px;
     margin-bottom: 200px;
-    margin-left: 70px;
+    margin-left: 80px;
     font-size: 30px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border-radius: 20px;
+    background-image: url("chain.jpg");
 }
