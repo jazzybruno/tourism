@@ -6,7 +6,7 @@
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     /* margin-left: 1000px; */
     border-radius: 20px;
-    background-image: url("mu.jpg");
+    background-image: url("pics/mu.jpg");
 }
 
 #but2{
@@ -17,7 +17,7 @@
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     /* margin-left: 1000px; */
     border-radius: 20px; 
-    background-image: url("mu.jpg");
+    background-image: url("pics/mu.jpg");
 }
 
 #but3{
@@ -27,7 +27,7 @@
     font-size: 30px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     border-radius: 20px;
-    background-image: url("mu.jpg");
+    background-image: url("pics/mu.jpg");
     /* margin-left: 1000px; */
 }
 #but4{
@@ -38,6 +38,6 @@
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
         
     border-radius: 20px;
-    background-image: url("mu.jpg");
+    background-image: url("pics/mu.jpg");
     /* margin-left: 1000px;
     margin-bottom:  60px; */

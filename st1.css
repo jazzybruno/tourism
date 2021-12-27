@@ -26,7 +26,7 @@ h1{
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     margin-left: 1000px;
     border-radius: 20px;
-    background-image: url("go.jpg");
+    background-image: url("pics/go.jpg");
 }
 
 #but2{
@@ -37,7 +37,7 @@ h1{
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     margin-left: 1000px;
     border-radius: 20px; 
-    background-image: url("ak.jpg");
+    background-image: url("pics/ak.jpg");
 }
 
 #but3{
@@ -47,7 +47,7 @@ h1{
     font-size: 30px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     border-radius: 20px;
-    background-image: url("bi.jpg");
+    background-image: url("pics/bi.jpg");
     margin-left: 1000px;
 }
 #but4{
@@ -58,7 +58,7 @@ h1{
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
         
     border-radius: 20px;
-    background-image: url("mu.jpg");
+    background-image: url("pics/mu.jpg");
     margin-left: 1000px;
     margin-bottom:  60px;
 }
